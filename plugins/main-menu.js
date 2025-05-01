@@ -78,7 +78,7 @@ const defaultMenu = {
 
   ╭┈──────────────── ꒰ 🌺 ꒱
  │ *𖦹 ¡Remember that you can join the bot's official channel!*
-  ╰─┈➤ ‌ ${xx}Sylph - Is The Best${xx}\n
+  ╰─┈➤ ‌ ${xx}🧸𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭🧸${xx}\n
 `.trimStart(),
   header: `乂 \`%category\`\n`,
   body: `	◦  \`%cmd\` %isdiamond %isPremium\n`,
