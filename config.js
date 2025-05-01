@@ -14,7 +14,7 @@ import { es } from "./lib/total-idiomas.js";
 global.botnumber = "";
 global.confirmCode = "";
 global.owner = [
-  ['', '>\`\` I\'𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~', true],
+  ['5491156178758', '>\`\` I\'𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~', true],
   ['13124976342', '>\` I\'m Fz ~', true]
 ];
 global.colabs = [
