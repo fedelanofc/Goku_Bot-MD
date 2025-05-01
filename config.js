@@ -14,11 +14,11 @@ import { es } from "./lib/total-idiomas.js";
 global.botnumber = "";
 global.confirmCode = "";
 global.owner = [
-  ['5212431085732', '>\`\` I\'m Sylph ~', true],
-  ['5212431268546', '>\` I\'m Fz ~', true]
+  ['', '>\`\` I\'𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~', true],
+  ['13124976342', '>\` I\'m Fz ~', true]
 ];
 global.colabs = [
-  ['50242783087', '>\`\`\` I\'m Danny ~ 卐', true]
+  ['13124976342', '>\`\`\` I\'m Danny ~ 卐', true]
 ];
 global.mods = [''];
 global.prems = [''];
@@ -38,7 +38,7 @@ global.APIKeys = {
 // Sticker WM
 global.packname = 'Sylph | Bot - Multi Device';
 global.footer = "тнe вeѕт wнaтѕapp вy ι'м ғz";
-global.author = `I'm Fz ~`;
+global.author = `𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~`;
 global.wm = '┊ꦿ🎄⿻ Sylph | Wa Bot❜ೃ';
 
 global.insta = 'https://www.instagram.com/';
@@ -52,7 +52,7 @@ global.imagen3 = 'https://telegra.ph/file/62fa3e30dc861a3fde73b.jpg';
 global.botName = 'Sylph Bot - The best';
 global.menu = "https://cdnmega.vercel.app/media/AxZ0gAIT@NQSMq0WtM7ZIJgW9e1ExwfQyJk6mb468ZhqN78X1_hY";
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs';
-global.link_ = 'https://chat.whatsapp.com/CN3YieShy2S3LnVRJ7aPPm';
+global.link_ = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs';
 
 // Subbots & Sesiones
 global.jadi = "Sesiones/Subbots";
