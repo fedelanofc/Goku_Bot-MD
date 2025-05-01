@@ -39,7 +39,7 @@ global.APIKeys = {
 global.packname = 'Sylph | Bot - Multi Device';
 global.footer = "тнe вeѕт wнaтѕapp вy ι'м ғz";
 global.author = `𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~`;
-global.wm = '┊ꦿ🎄⿻ Sylph | Wa Bot❜ೃ';
+global.wm = '┊ꦿ🎄⿻ 𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭 ❜ೃ';
 
 global.insta = 'https://www.instagram.com/';
 
