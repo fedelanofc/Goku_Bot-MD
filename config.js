@@ -36,8 +36,8 @@ global.APIKeys = {
 };
 
 // Sticker WM
-global.packname = 'Sylph | Bot - Multi Device';
-global.footer = "тнe вeѕт wнaтѕapp вy ι'м ғz";
+global.packname = '𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞 | 𝐁𝐨𝐭 - Multi Device';
+global.footer = "тнe вeѕт wнaтѕapp вy 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛";
 global.author = `𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~`;
 global.wm = '┊ꦿ🎄⿻ 𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭 ❜ೃ';
 
@@ -49,7 +49,7 @@ global.imagen = fs.readFileSync('./src/Sylph.jpg');
 global.imagen3 = 'https://telegra.ph/file/62fa3e30dc861a3fde73b.jpg';
 
 // Info
-global.botName = 'Sylph Bot - The best';
+global.botName = '🧸𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭🧸';
 global.menu = "https://cdnmega.vercel.app/media/AxZ0gAIT@NQSMq0WtM7ZIJgW9e1ExwfQyJk6mb468ZhqN78X1_hY";
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs';
 global.link_ = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs';
