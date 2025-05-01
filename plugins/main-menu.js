@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname }) => {
 let ucpn = `${ucapan()}`
 let user = global.db.data.users[m.sender]
 let xx = '```'
-let fz = '5212431268546'
+let fz = '5491156178758'
 let sylph = '17146121800'
 let tags = {
   'main': 'Acerca dé',
@@ -74,7 +74,7 @@ const defaultMenu = {
 ≡ 🌄 \`Premium :\` 🪙
 ≡ 🌳 \`Diamond :\` 💎
 
-\`https://whatsapp.com/channel/0029Va6InNBFCCoM9xzKFG3G\`
+\`https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n\`
 
   ╭┈──────────────── ꒰ 🌺 ꒱
  │ *𖦹 ¡Remember that you can join the bot's official channel!*
@@ -84,7 +84,7 @@ const defaultMenu = {
   body: `	◦  \`%cmd\` %isdiamond %isPremium\n`,
   footer: `\n`,
   after: `
-${wm} | Powered By I'm Fz ~
+${wm} | Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~
 `,
 }
   try {
