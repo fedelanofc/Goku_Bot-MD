@@ -27,8 +27,8 @@ txt += footer
         	mentionedJid: [m.sender], 
         	isForwarded: true, 
 	        forwardedNewsletterMessageInfo: {
-			newsletterJid: '120363183614708156@newsletter',
-			newsletterName: "Sylphiette's Channel 🍂", 
+			newsletterJid: '120363400708262483@newsletter',
+			newsletterName: "⏤͟͟͞͞★𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈-𝙲𝙷𝙰𝙽𝙽𝙴𝙻🌟᭄", 
 			serverMessageId: -1
 		},
 	businessMessageForwardInfo: { businessOwnerJid: conn.decodeJid(conn.user.id) },
@@ -45,7 +45,7 @@ txt += footer
           text: `🍂 Hola, @${m.sender.replace(/@.+/g, '')}! A continuación te proporciono información sobre el script del bot!`
         }),
         footer: proto.Message.InteractiveMessage.Footer.fromObject({
-          text: "Sylphiette | Powered By I'm Fz ~"
+          text: "Sylphiette | Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛"
         }),
         header: proto.Message.InteractiveMessage.Header.fromObject({
           hasMediaAttachment: false
@@ -66,7 +66,7 @@ txt += footer
                 buttons: [
                   {
                     name: "cta_url",
-                    buttonParamsJson: `{"display_text":"Click Here!","url":"https://github.com/FzTeis/Sylphiette","merchant_url":"https://github.com/FzTeis/Sylphiette"}`
+                    buttonParamsJson: `{"display_text":"Click Here!","url":"https://github.com/fedelanYT/Sylphiette-Bot","merchant_url":"https://github.com/fedelanYT/Sylphiette-Bot"}`
                     }
                   ]
               })
