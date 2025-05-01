@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sylphiette%20-%20The%20Best%20🧝‍♂️&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sylphiette%20-%20Bot%20🧝‍♂️&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 <p align="center"> 
 <img src="https://telegra.ph/file/984d8ca31c6552a19f378.jpg" />
 <p/>
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Va6InNBFCCoM9xzKFG3G)
-[![WhatsApp](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5212431268546)
-[![WhatsApp](https://img.shields.io/badge/GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IZnTbIcSVI6EXYHII2hlrK)
+[![WhatsApp](https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n)
+[![WhatsApp](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491156178758)
+[![WhatsApp](https://img.shields.io/badge/GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs)
 [![WhatsApp](https://img.shields.io/badge/Sylph-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17146121800?text=/menu) 
 
 </div>
