@@ -3,21 +3,21 @@ let txt = `
 \`\`\`Hello @${m.sender.split('@')[0]}! Below I will provide you with both the contact of my creator and the official groups of the bot.\`\`\` 🌱
 
  🌷 \`Creator :\`
- • @5212431268546
+ • @5491156178758
  
  🌾 \`Official Group 1 :\`
- • @120363146549758457@g.us
+ • @120363383284446698@g.us
  
  🌿 \`Official Group 2 :\`
- • @120363396011370236@g.us
+ • @120363383284446698@g.us
  
 🌴 \`\`\`Remember to follow our channels to find out about updates to the bot, as well as general information and much more!\`\`\`
 
  🌲 \`Official channel 1 :\`
- • https://whatsapp.com/channel/0029VaoyLfA0LKZKjEh5Yh1J
+ • https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n
  
  🍄 \`Official channel 2 :\`
- • https://whatsapp.com/channel/0029Va6InNBFCCoM9xzKFG3G
+ • https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n
 `
 conn.relayMessage(m.chat, {
       extendedTextMessage: {
@@ -26,12 +26,12 @@ conn.relayMessage(m.chat, {
           mentionedJid: conn.parseMention(txt),
           groupMentions: [
     	            {
-    		            groupSubject: await conn.getName(`120363146549758457@g.us`),
-    		            groupJid: `120363146549758457@g.us`,
+    		            groupSubject: await conn.getName(`120363383284446698@g.us`),
+    		            groupJid: `120363383284446698@g.us`,
     	            },
     	            {
-    	                groupSubject: await conn.getName(`120363396011370236@g.us`),
-    		            groupJid: `120363396011370236@g.us`,
+    	                groupSubject: await conn.getName(`120363383284446698@g.us`),
+    		            groupJid: `120363383284446698@g.us`,
     	            },
                 ],
           externalAdReply: {
@@ -40,7 +40,7 @@ conn.relayMessage(m.chat, {
             previewType: 0,
             renderLargerThumbnail: true,
             thumbnail: fs.readFileSync('./src/menu_logo.jpg'),
-            sourceUrl: "https://whatsapp.com/channel/0029Va6InNBFCCoM9xzKFG3G",
+            sourceUrl: "https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n",
           }
         }, mentions: [m.sender]
       }
