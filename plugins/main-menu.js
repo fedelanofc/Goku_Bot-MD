@@ -38,9 +38,8 @@ const defaultMenu = {
 「 ${wm} ㊎ 」\n
  ⏍ Hello @${m.sender.split`@`[0]}, ${ucpn}
 
- \`乂https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs'\
+🍃ꦿ\`Creator :\` @𝖿ᥱძᥱᥣᥲᥒ ᥡ𝗍 ‍
 
- 
   乂 \`U  S  E  R\`
   
 🌸᭄ꦿ 🌴 \`Name :\` %name
