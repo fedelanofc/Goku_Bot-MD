@@ -81,7 +81,7 @@ const defaultMenu = {
   ╰─┈➤ ‌ ${xx}🧸𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭🧸${xx}\n
 `.trimStart(),
   header: `乂 \`%category\`\n`,
-  body: `	◦  \`%cmd\` %isdiamond %isPremium\n`,
+  body: `	ര ׄ🍃˚  \`%cmd\` %isdiamond %isPremium\n`,
   footer: `\n`,
   after: `
 ${wm} | Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~
