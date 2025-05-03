@@ -37,29 +37,31 @@ const defaultMenu = {
   before: `
 「 ${wm} ㊎ 」\n
  ⏍ Hello @${m.sender.split`@`[0]}, ${ucpn}
+
+ \`乂 https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs'\
  
   乂 \`U  S  E  R\`
   
-≡ 🌴 \`Name :\` %name
-≡ 🌱 \`Coins :\` %coin
-≡ 🌾 \`Role :\` %role
-≡ 🌷 \`Level :\` %level
-≡ 🌿 \`Xp :\` %exp / %maxexp
-≡ 🌲 \`Total Xp :\` %totalexp
-≡ 🎍 \`¿VIP? :\` *${global.db.data.users[m.sender].premiumTime > 1 ? 'Si': 'No'}*
+🌸᭄ꦿ 🌴 \`Name :\` %name
+🌸᭄ꦿ 🌱 \`Coins :\` %coin
+🌸᭄ꦿ 🌾 \`Role :\` %role
+🌸᭄ꦿ 🌷 \`Level :\` %level
+🌸᭄ꦿ 🌿 \`Xp :\` %exp / %maxexp
+🌸᭄ꦿ 🌲 \`Total Xp :\` %totalexp
+🌸᭄ꦿ 🎍 \`¿VIP? :\` *${global.db.data.users[m.sender].premiumTime > 1 ? 'Si': 'No'}*
  
   乂 \`I  N  F  O\`
   
-≡ \`Bot Name :\` ${botName}
-≡ \`Platform :\` %platform
-≡ \`Type :\` NodeJs
-≡ \`Creator :\` @${fz}
-≡ \`Baileys :\` Multi - Device
-≡ \`Prefix :\` [ *%_p* ]
-≡ \`Uptime :\` %muptime
-≡ \`Bot status :\` %mode
-≡ \`Database :\` %rtotalreg - %totalreg
-≡ \`Status :\` ${m.sender.split`@`[0] == fz  ? 'Developer' : m.sender.split`@`[0] == sylph ? 'Official bot (In development)' :  (user.premiumTime >= 1 ? 'VIP User' : 'Free User')}
+🌸᭄ꦿ \`Bot Name :\` ${botName}
+🌸᭄ꦿ \`Platform :\` %platform
+🌸᭄ꦿ \`Type :\` NodeJs
+🌸᭄ꦿ \`Creator :\` @${fz}
+🌸᭄ꦿ \`Baileys :\` Multi - Device
+🌸᭄ꦿ \`Prefix :\` [ *%_p* ]
+🌸᭄ꦿ \`Uptime :\` %muptime
+🌸᭄ꦿ \`Bot status :\` %mode
+🌸᭄ꦿ \`Database :\` %rtotalreg - %totalreg
+🌸᭄ꦿ \`Status :\` ${m.sender.split`@`[0] == fz  ? 'Developer' : m.sender.split`@`[0] == sylph ? 'Official bot (In development)' :  (user.premiumTime >= 1 ? 'VIP User' : 'Free User')}
   
 %sbot
   
@@ -71,8 +73,8 @@ const defaultMenu = {
   
   乂 \`I N F O   M E N U\`
  
-≡ 🌄 \`Premium :\` 🪙
-≡ 🌳 \`Diamond :\` 💎
+🌸᭄ꦿ 🌄 \`Premium :\` 🪙
+🌸᭄ꦿ 🌳 \`Diamond :\` 💎
 
 \`https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n\`
 
