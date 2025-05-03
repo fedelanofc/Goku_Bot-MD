@@ -39,6 +39,7 @@ const defaultMenu = {
  ⏍ Hello @${m.sender.split`@`[0]}, ${ucpn}
 
  \`乂 https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs'\
+
  
   乂 \`U  S  E  R\`
   
