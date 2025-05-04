@@ -50,7 +50,7 @@ global.imagen3 = 'https://telegra.ph/file/62fa3e30dc861a3fde73b.jpg';
 
 // Info
 global.botName = '🧸𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭🧸';
-global.menu = "https://cdnmega.vercel.app/media/AxZ0gAIT@NQSMq0WtM7ZIJgW9e1ExwfQyJk6mb468ZhqN78X1_hY";
+global.menu = "https://files.catbox.moe/b1fhc9.jpg";
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs';
 global.link_ = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs';
 
