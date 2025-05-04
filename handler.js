@@ -541,7 +541,7 @@ this.sendMessage(id, {
                         //sourceUrl: '',
                         mediaType: 1,
                         description: `🍁 This bot is still in development.`,
-                        title: `🌺 Thank you for using Sylphiette, the best WhatsApp bot.`,
+                        title: `🌺 Thank you for using Goku_bot-MD, the best WhatsApp bot.`,
                         body: `💐 Developed by 𝖿ᥱძᥱᥣᥲᥒ ᥡ𝗍 ‍`,          
                         previewType: 0,
                         thumbnail: imagen,
