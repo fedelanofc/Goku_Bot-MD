@@ -38,7 +38,7 @@ const defaultMenu = {
 「 ${wm} ㊎ 」\n
  ⏍ Hello @${m.sender.split`@`[0]}, ${ucpn}
 
-🍃ꦿ\`Creator :\` @${fz}𝖿ᥱძᥱᥣᥲᥒ ᥡ𝗍 ‍
+🍃ꦿ\`Creator :\` @${m
 
   乂 \`U  S  E  R\`
   
