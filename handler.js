@@ -542,7 +542,7 @@ this.sendMessage(id, {
                         mediaType: 1,
                         description: `🍁 This bot is still in development.`,
                         title: `🌺 Thank you for using Sylphiette, the best WhatsApp bot.`,
-                        body: `💐 Developed by I\`m Fz ~`,          
+                        body: `💐 Developed by 𝖿ᥱძᥱᥣᥲᥒ ᥡ𝗍 ‍`,          
                         previewType: 0,
                         thumbnail: imagen,
                         mediaUrl: insta,
