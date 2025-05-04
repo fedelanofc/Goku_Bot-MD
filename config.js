@@ -50,7 +50,7 @@ global.imagen3 = 'https://telegra.ph/file/62fa3e30dc861a3fde73b.jpg';
 
 // Info
 global.botName = '🐉𝙂𝙤𝙠𝙪_𝘽𝙤𝙩-𝙈𝘿🐉';
-global.menu = "https://files.catbox.moe/b1fhc9.jpg";
+global.menu = "https://files.catbox.moe/g60e35.mp4";
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs';
 global.link_ = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs';
 
