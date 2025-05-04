@@ -40,26 +40,26 @@ const defaultMenu = {
 
   乂 \`U  S  E  R\`
   
-🌸᭄ꦿ 🌴 \`Name :\` %name
-🌸᭄ꦿ 🌱 \`Coins :\` %coin
-🌸᭄ꦿ 🌾 \`Role :\` %role
-🌸᭄ꦿ 🌷 \`Level :\` %level
-🌸᭄ꦿ 🌿 \`Xp :\` %exp / %maxexp
-🌸᭄ꦿ 🌲 \`Total Xp :\` %totalexp
-🌸᭄ꦿ 🎍 \`¿VIP? :\` *${global.db.data.users[m.sender].premiumTime > 1 ? 'Si': 'No'}*
+🐉 🌴 \`Name :\` %name
+🐉 🌱 \`Coins :\` %coin
+🐉 🌾 \`Role :\` %role
+🐉 🌷 \`Level :\` %level
+🐉 🌿 \`Xp :\` %exp / %maxexp
+🐉 🌲 \`Total Xp :\` %totalexp
+🐉 🎍 \`¿VIP? :\` *${global.db.data.users[m.sender].premiumTime > 1 ? 'Si': 'No'}*
  
   乂 \`I  N  F  O\`
   
-🌸᭄ꦿ \`Bot Name :\` ${botName}
-🌸᭄ꦿ \`Platform :\` %platform
-🌸᭄ꦿ \`Type :\` NodeJs
-🌸᭄ꦿ \`Creator :\` @${fz}
-🌸᭄ꦿ \`Baileys :\` Multi - Device
-🌸᭄ꦿ \`Prefix :\` [ *%_p* ]
-🌸᭄ꦿ \`Uptime :\` %muptime
-🌸᭄ꦿ \`Bot status :\` %mode
-🌸᭄ꦿ \`Database :\` %rtotalreg - %totalreg
-🌸᭄ꦿ \`Status :\` ${m.sender.split`@`[0] == fz  ? 'Developer' : m.sender.split`@`[0] == sylph ? 'Official bot (In development)' :  (user.premiumTime >= 1 ? 'VIP User' : 'Free User')}
+🐉 \`Bot Name :\` ${botName}
+🐉 \`Platform :\` %platform
+🐉 \`Type :\` NodeJs
+🐉 \`Creator :\` @${fz}
+🐉 \`Baileys :\` Multi - Device
+🐉 \`Prefix :\` [ *%_p* ]
+🐉 \`Uptime :\` %muptime
+🐉 \`Bot status :\` %mode
+🐉 \`Database :\` %rtotalreg - %totalreg
+🐉 \`Status :\` ${m.sender.split`@`[0] == fz  ? 'Developer' : m.sender.split`@`[0] == sylph ? 'Official bot (In development)' :  (user.premiumTime >= 1 ? 'VIP User' : 'Free User')}
   
 %sbot
   
@@ -71,20 +71,20 @@ const defaultMenu = {
   
   乂 \`I N F O   M E N U\`
  
-🌸᭄ꦿ 🌄 \`Premium :\` 🪙
-🌸᭄ꦿ 🌳 \`Diamond :\` 💎
+🐉 🌄 \`Premium :\` 🪙
+🐉 🌳 \`Diamond :\` 💎
 
 \`https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n\`
 
   ╭┈──────────────── ꒰ 🌺 ꒱
  │ *𖦹 ¡Remember that you can join the bot's official channel!*
-  ╰─┈➤ ‌ ${xx}🧸𝐒𝐲𝐥𝐩𝐡𝐢𝐞𝐭𝐭𝐞-𝐁𝐨𝐭🧸${xx}\n
+  ╰─┈➤ ‌ ${xx}🐉𝙂𝙤𝙠𝙪_𝘽𝙤𝙩-𝙈𝘿🐉${xx}\n
 `.trimStart(),
   header: `乂 \`%category\`\n`,
-  body: `	ര ׄ🍃˚  \`%cmd\` %isdiamond %isPremium\n`,
+  body: `	ര ׄ🐉˚  \`%cmd\` %isdiamond %isPremium\n`,
   footer: `\n`,
   after: `
-${wm} | Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ~
+${wm} | Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 
 `,
 }
   try {
